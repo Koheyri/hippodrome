@@ -8,7 +8,7 @@ import java.util.List;
 import static java.util.Objects.isNull;
 
 public class Hippodrome {
-    private static final Logger logger = LoggerFactory.getLogger(Main.class);
+    private static final Logger logger = LoggerFactory.getLogger(Hippodrome.class);
 
     private final List<Horse> horses;
 
